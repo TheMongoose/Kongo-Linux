@@ -1,2 +1,2 @@
 # Kongo-Linux
-A cybersecurity OS for everyone
+A OS for everything
